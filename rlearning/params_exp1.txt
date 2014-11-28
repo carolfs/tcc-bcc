@@ -1,0 +1,13 @@
+[parâmetros]
+gama = 0.99
+alfa = 0.5
+escolha = gibbs
+epsilon = 0.05
+tau = 1
+k = 0
+valor do acerto = 1
+valor do erro = 0
+p = 0.7
+número de apresentações = 300
+repetições = 1000
+analisar = 1
