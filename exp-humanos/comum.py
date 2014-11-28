@@ -16,9 +16,6 @@
 #You should have received a copy of the GNU General Public License
 #along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-# Análise dos experimentos com voluntários humanos
-# Os resultados estão no diretório exp1-resultados
-
 # Código comum aos experimentos
 # Deve ser rodado em Python 2 (o psychopy não roda em Python 3)
 

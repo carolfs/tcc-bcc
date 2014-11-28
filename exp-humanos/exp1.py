@@ -16,9 +16,6 @@
 #You should have received a copy of the GNU General Public License
 #along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-# Análise dos experimentos com voluntários humanos
-# Os resultados estão no diretório exp1-resultados
-
 # Experimento 1 - Espacial, com tarefa de memória
 # 
 # Ele é composto de dois módulos, comum.py e exp1.py
